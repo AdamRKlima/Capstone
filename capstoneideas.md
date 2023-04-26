@@ -17,4 +17,6 @@
 ### Research articles and their sources, statistics and changes over the last 40 years in order to see what impact OIF and OEF had on statistics, what seperations are made in the data ie: mos, religion, age etc
 
 # Resources
-### https://www.mentalhealth.va.gov/docs/data-sheets/2022/2022-National-Veteran-Suicide-Prevention-Annual-Report-FINAL-508.pdf , https://developer.va.gov/explore/health , https://www.data.va.gov/browse?q=suicide&sortBy=last_modified&utf8=%E2%9C%93 , https://www.kaggle.com/
+### https://www.mentalhealth.va.gov/docs/data-sheets/2022/2022-National-Veteran-Suicide-Prevention-Annual-Report-FINAL-508.pdf Its the official VA report for 2022 and has lots of data visualization, https://developer.va.gov/explore/health another va source that lets you research data sets, https://www.data.va.gov/browse?q=suicide&sortBy=last_modified&utf8=%E2%9C%93 another VA source that lets you search published findings, https://www.kaggle.com/ well rounded database for multiple sources
+
+# Other References - I would like to find more civilian independant studies
