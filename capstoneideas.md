@@ -19,4 +19,4 @@
 # Resources
 ### https://www.mentalhealth.va.gov/docs/data-sheets/2022/2022-National-Veteran-Suicide-Prevention-Annual-Report-FINAL-508.pdf Its the official VA report for 2022 and has lots of data visualization, https://developer.va.gov/explore/health another va source that lets you research data sets, https://www.data.va.gov/browse?q=suicide&sortBy=last_modified&utf8=%E2%9C%93 another VA source that lets you search published findings, https://www.kaggle.com/ well rounded database for multiple sources
 
-# Other References - I would like to find more civilian independant studies
+# Other References - I would like to find more civilian independent studies
