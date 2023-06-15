@@ -1,7 +1,7 @@
 ,White,,Black,, American Indian/Alaskan Native,,"Asian, Native Hawaiian, or Pacific Islander",,Multiple Race,,Unknown Race,
 "Year
 of
-Death",Number of Suicide Deaths,Crude Rate,Number of Suicide Deaths,Crude Rate,Number of Suicide Deaths,Crude Rate,Number of Suicide Deaths,Crude Rate,Number of Suicide Deaths,Crude Rate,Number of Suicide Deaths,Percent
+Death",WhiteNumofSuicide,WhiteCrudeRate,AfricanAmericanNumofSuicides,AfricanAmericanCrudeRate,NativeNumofSuicide,NativeCrudeRate,Asian/Hawaiian/PacificIslanderNumofSuicides,Asian/Hawaiian/PacificIslanderCrudeRate,MultipleRaceNumofSuicides,MultipleRaceCrudeRate,UnknownRace,Percent
 2001,"5,122",23.1,292,12.1,44,26.8,35,11.3,<10,--,500,8.3%
 2002,"5,302",24.4,282,11.4,30,18.8,25,8.0,13,3.7,486,7.9%
 2003,"5,186",24.2,256,10.5,34,18.4,39,12.3,<10,--,486,8.1%
