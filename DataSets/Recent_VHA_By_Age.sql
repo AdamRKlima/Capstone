@@ -55,3 +55,8 @@ DELETE FROM NonRecentVHAbyAge
 WHERE Year<2015
 
 SELECT * FROM NonRecentVHAbyAge
+
+SELECT rr.*, rs.*
+FROM RatesByRace rr
+LEFT JOIN RatesBySex rs
+on rr.Year=rs.Year
