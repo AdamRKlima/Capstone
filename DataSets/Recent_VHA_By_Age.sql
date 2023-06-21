@@ -120,16 +120,45 @@ DROP COLUMN "FemaleAgeAdjustedRate/100,000"
 ALTER TABLE RecentVHAbyYear
 DROP COLUMN AgeGroup
 
+CREATE TABLE RecentAndNonRecentVHAbyAGE as
+	SELECT nra.*, ra.*
+	FROM NonRecentVHAbyAge nra
+	LEFT JOIN RecentVHAbyAge ra
+	on nra.Year=ra.Year AND nra.AgeGroup=ra.AgeGroup
 
+ALTER TABLE RecentAndNonRecentVHAbyAGE
+DROP COLUMN 'Year:1'
 
-ALTER TABLE RatesBySexAndRace
-DROP COLUMN NonRecentVHAMaleSuicides
+ALTER TABLE RecentAndNonRecentVHAbyAGE
+DROP COLUMN 'AgeGroup:1'
 
-ALTER TABLE RecentAndNonRecentVHAbyYear
-DROP COLUMN MaleNonRecentVHApopEst
+CREATE TABLE AgeOverview as
+	SELECT ab.*, rba.*
+	FROM RatesBySexandAge ab
+	LEFT JOIN RecentAndNonRecentVHAbyAGE rba
+	on ab.Year=rba.Year AND ab.AgeGroup=rba.AgeGroup
+	
+ALTER TABLE AgeOverview
+DROP COLUMN AgeGroup2
 
-ALTER TABLE RecentAndNonRecentVHAbyYear
-DROP COLUMN "MaleNonRecentVHAuserCrudeRate/100,000"
+ALTER TABLE AgeOverview
+DROP COLUMN 'Year:1'
 
+ALTER TABLE AgeOverview
+DROP COLUMN 'AgeGroup:1'
 
+SELECT *
+FROM AgeOverview
+WHERE FemaleNumofSuicide = '.'
 
+UPDATE AgeOverview
+SET FemaleNumofSuicide = 0
+WHERE FemaleNumofSuicide ='.'
+
+UPDATE AgeOverview
+SET FemalePopEst = 0
+WHERE FemalePopEst ='.'
+
+UPDATE AgeOverview
+SET "FemaleCrudeRate/100,000" = 0
+WHERE "FemaleCrudeRate/100,000" ='.'
