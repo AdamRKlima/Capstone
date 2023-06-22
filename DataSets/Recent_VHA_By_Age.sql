@@ -132,7 +132,7 @@ DROP COLUMN 'Year:1'
 ALTER TABLE RecentAndNonRecentVHAbyAGE
 DROP COLUMN 'AgeGroup:1'
 
-CREATE TABLE AgeOverview as
+CREATE TABLE AgeOverviewsdfg as
 	SELECT ab.*, rba.*
 	FROM RatesBySexandAge ab
 	LEFT JOIN RecentAndNonRecentVHAbyAGE rba
@@ -162,3 +162,17 @@ WHERE FemalePopEst ='.'
 UPDATE AgeOverview
 SET "FemaleCrudeRate/100,000" = 0
 WHERE "FemaleCrudeRate/100,000" ='.'
+
+CREATE TABLE StatebyYear as
+	SELECT *
+	FROM SexByYearAndState
+	WHERE Sex = 'All'
+
+ALTER TABLE StatebyYear
+DROP COLUMN Sex	
+
+ALTER TABLE AgeByState
+ADD COLUMN Addd as (Suicides+"SuicideRate/100,000")
+
+ALTER TABLE AgeByState
+DROP COLUMN Addd
