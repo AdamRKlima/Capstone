@@ -1,4 +1,167 @@
-<?xml version="1.0" encoding="UTF-8"?><sqlb_project><db path="C:/Users/adamr/Code/SavvyCoders/Capstone/DataSets/Vet-Suicide-Rates.db" readonly="0" foreign_keys="1" case_sensitive_like="0" temp_store="0" wal_autocheckpoint="1000" synchronous="2"/><attached/><window><main_tabs open="structure browser pragmas query" current="0"/></window><tab_structure><column_width id="0" width="300"/><column_width id="1" width="0"/><column_width id="2" width="100"/><column_width id="3" width="5551"/><column_width id="4" width="0"/><expanded_item id="0" parent="1"/><expanded_item id="1" parent="1"/><expanded_item id="2" parent="1"/><expanded_item id="3" parent="1"/></tab_structure><tab_browse><current_table name="4,11:mainAgeOverview"/><default_encoding codec=""/><browse_table_settings><table schema="main" name="AgeByState" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="40"/><column index="2" value="81"/><column index="3" value="120"/><column index="4" value="72"/><column index="5" value="60"/><column index="6" value="144"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="AgeOverview" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort><column index="1" mode="0"/></sort><column_widths><column index="1" value="40"/><column index="2" value="72"/><column index="3" value="93"/><column index="4" value="105"/><column index="5" value="137"/><column index="6" value="83"/><column index="7" value="82"/><column index="8" value="167"/><column index="9" value="164"/><column index="10" value="137"/><column index="11" value="188"/><column index="12" value="181"/><column index="13" value="179"/><column index="14" value="229"/><column index="15" value="157"/><column index="16" value="179"/><column index="17" value="234"/><column index="18" value="197"/><column index="19" value="102"/><column index="20" value="285"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="HispanicAffiliationRates" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="40"/><column index="2" value="99"/><column index="3" value="85"/><column index="4" value="137"/><column index="5" value="90"/><column index="6" value="82"/><column index="7" value="167"/><column index="8" value="104"/><column index="9" value="96"/><column index="10" value="181"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="NonRecentVHAbyAge" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="40"/><column index="2" value="72"/><column index="3" value="157"/><column index="4" value="179"/><column index="5" value="234"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="NonRecentVHAbyYear" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="40"/><column index="2" value="157"/><column index="3" value="130"/><column index="4" value="234"/><column index="5" value="188"/><column index="6" value="180"/><column index="7" value="294"/><column index="8" value="231"/><column index="9" value="223"/><column index="10" value="300"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="RaceByState" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="40"/><column index="2" value="118"/><column index="3" value="125"/><column index="4" value="46"/><column index="5" value="41"/><column index="6" value="110"/><column index="7" value="253"/><column index="8" value="90"/><column index="9" value="98"/><column index="10" value="117"/><column index="11" value="83"/><column index="12" value="122"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="RatesBySex" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="40"/><column index="2" value="99"/><column index="3" value="85"/><column index="4" value="137"/><column index="5" value="184"/><column index="6" value="233"/><column index="7" value="90"/><column index="8" value="82"/><column index="9" value="167"/><column index="10" value="214"/><column index="11" value="104"/><column index="12" value="96"/><column index="13" value="181"/><column index="14" value="228"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="RatesBySexAndRace" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="40"/><column index="2" value="131"/><column index="3" value="175"/><column index="4" value="208"/><column index="5" value="245"/><column index="6" value="134"/><column index="7" value="178"/><column index="8" value="300"/><column index="9" value="300"/><column index="10" value="182"/><column index="11" value="159"/><column index="12" value="98"/><column index="13" value="59"/><column index="14" value="99"/><column index="15" value="85"/><column index="16" value="137"/><column index="17" value="184"/><column index="18" value="233"/><column index="19" value="90"/><column index="20" value="82"/><column index="21" value="167"/><column index="22" value="214"/><column index="23" value="104"/><column index="24" value="96"/><column index="25" value="181"/><column index="26" value="228"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="RatesBySexandAge" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="40"/><column index="2" value="72"/><column index="3" value="93"/><column index="4" value="105"/><column index="5" value="137"/><column index="6" value="83"/><column index="7" value="82"/><column index="8" value="167"/><column index="9" value="80"/><column index="10" value="137"/><column index="11" value="96"/><column index="12" value="181"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="RecentAndNonRecentVHAbyAGE" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="40"/><column index="2" value="72"/><column index="3" value="157"/><column index="4" value="179"/><column index="5" value="234"/><column index="6" value="155"/><column index="7" value="85"/><column index="8" value="197"/><column index="9" value="102"/><column index="10" value="285"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="RecentAndNonRecentVHAbyYear" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="40"/><column index="2" value="157"/><column index="3" value="130"/><column index="4" value="234"/><column index="5" value="197"/><column index="6" value="102"/><column index="7" value="285"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="RecentVHAbyAge" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="40"/><column index="2" value="72"/><column index="3" value="197"/><column index="4" value="102"/><column index="5" value="285"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="RecentVHAbyYear" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="40"/><column index="2" value="197"/><column index="3" value="102"/><column index="4" value="285"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="SexByYearAndState" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="40"/><column index="2" value="81"/><column index="3" value="118"/><column index="4" value="49"/><column index="5" value="93"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table></browse_table_settings></tab_browse><tab_sql><sql name="Recent_VHA_By_Age.sql">SELECT *
+<?xml version="1.0" encoding="UTF-8"?><sqlb_project><db path="E:/Code/SavvyCoders/Capstone/DataSets/Vet-Suicide-Rates.db" readonly="0" foreign_keys="1" case_sensitive_like="0" temp_store="0" wal_autocheckpoint="1000" synchronous="2"/><attached/><window><main_tabs open="structure browser pragmas query" current="3"/></window><tab_structure><column_width id="0" width="300"/><column_width id="1" width="0"/><column_width id="2" width="100"/><column_width id="3" width="7743"/><column_width id="4" width="0"/><expanded_item id="0" parent="1"/><expanded_item id="1" parent="1"/><expanded_item id="2" parent="1"/><expanded_item id="3" parent="1"/></tab_structure><tab_browse><current_table name="4,13:mainYearMasterSet"/><default_encoding codec=""/><browse_table_settings><table schema="main" name="AgeAllOverview" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="40"/><column index="2" value="93"/><column index="3" value="105"/><column index="4" value="83"/><column index="5" value="82"/><column index="6" value="157"/><column index="7" value="179"/><column index="8" value="197"/><column index="9" value="102"/><column index="10" value="145"/><column index="11" value="97"/><column index="12" value="134"/><column index="13" value="113"/><column index="14" value="148"/><column index="15" value="127"/><column index="16" value="201"/><column index="17" value="181"/><column index="18" value="177"/><column index="19" value="157"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="AgeByState" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="40"/><column index="2" value="81"/><column index="3" value="120"/><column index="4" value="72"/><column index="5" value="60"/><column index="6" value="144"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="AgeOverview" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort><column index="1" mode="0"/></sort><column_widths><column index="1" value="40"/><column index="2" value="72"/><column index="3" value="93"/><column index="4" value="105"/><column index="5" value="137"/><column index="6" value="83"/><column index="7" value="82"/><column index="8" value="167"/><column index="9" value="164"/><column index="10" value="137"/><column index="11" value="188"/><column index="12" value="181"/><column index="13" value="179"/><column index="14" value="229"/><column index="15" value="157"/><column index="16" value="179"/><column index="17" value="234"/><column index="18" value="197"/><column index="19" value="102"/><column index="20" value="285"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="HispanicAffiliationRates" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="40"/><column index="2" value="99"/><column index="3" value="85"/><column index="4" value="137"/><column index="5" value="90"/><column index="6" value="82"/><column index="7" value="167"/><column index="8" value="104"/><column index="9" value="96"/><column index="10" value="181"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="NonRecentVHAbyAge" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="40"/><column index="2" value="72"/><column index="3" value="157"/><column index="4" value="179"/><column index="5" value="234"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="NonRecentVHAbyYear" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="40"/><column index="2" value="157"/><column index="3" value="130"/><column index="4" value="234"/><column index="5" value="188"/><column index="6" value="180"/><column index="7" value="294"/><column index="8" value="231"/><column index="9" value="223"/><column index="10" value="300"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="RaceByState" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="40"/><column index="2" value="118"/><column index="3" value="125"/><column index="4" value="46"/><column index="5" value="41"/><column index="6" value="110"/><column index="7" value="253"/><column index="8" value="90"/><column index="9" value="98"/><column index="10" value="117"/><column index="11" value="83"/><column index="12" value="122"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="RatesBySex" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="40"/><column index="2" value="99"/><column index="3" value="85"/><column index="4" value="137"/><column index="5" value="184"/><column index="6" value="233"/><column index="7" value="90"/><column index="8" value="82"/><column index="9" value="167"/><column index="10" value="214"/><column index="11" value="104"/><column index="12" value="96"/><column index="13" value="181"/><column index="14" value="228"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="RatesBySexAndRace" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="40"/><column index="2" value="131"/><column index="3" value="175"/><column index="4" value="208"/><column index="5" value="245"/><column index="6" value="134"/><column index="7" value="178"/><column index="8" value="300"/><column index="9" value="300"/><column index="10" value="182"/><column index="11" value="159"/><column index="12" value="98"/><column index="13" value="59"/><column index="14" value="99"/><column index="15" value="85"/><column index="16" value="137"/><column index="17" value="184"/><column index="18" value="233"/><column index="19" value="90"/><column index="20" value="82"/><column index="21" value="167"/><column index="22" value="214"/><column index="23" value="104"/><column index="24" value="96"/><column index="25" value="181"/><column index="26" value="228"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="RatesBySexandAge" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="40"/><column index="2" value="72"/><column index="3" value="93"/><column index="4" value="105"/><column index="5" value="137"/><column index="6" value="83"/><column index="7" value="82"/><column index="8" value="167"/><column index="9" value="80"/><column index="10" value="137"/><column index="11" value="96"/><column index="12" value="181"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="RecentAndNonRecentVHAbyAGE" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="40"/><column index="2" value="72"/><column index="3" value="157"/><column index="4" value="179"/><column index="5" value="234"/><column index="6" value="155"/><column index="7" value="85"/><column index="8" value="197"/><column index="9" value="102"/><column index="10" value="285"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="RecentAndNonRecentVHAbyYear" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="40"/><column index="2" value="157"/><column index="3" value="130"/><column index="4" value="234"/><column index="5" value="197"/><column index="6" value="102"/><column index="7" value="285"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="RecentVHAbyAge" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="40"/><column index="2" value="72"/><column index="3" value="197"/><column index="4" value="102"/><column index="5" value="285"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="RecentVHAbyYear" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="40"/><column index="2" value="197"/><column index="3" value="102"/><column index="4" value="285"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="SexByYearAndState" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="40"/><column index="2" value="81"/><column index="3" value="118"/><column index="4" value="49"/><column index="5" value="93"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="YearMasterSet" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="40"/><column index="2" value="93"/><column index="3" value="105"/><column index="4" value="83"/><column index="5" value="82"/><column index="6" value="157"/><column index="7" value="179"/><column index="8" value="197"/><column index="9" value="102"/><column index="10" value="145"/><column index="11" value="97"/><column index="12" value="134"/><column index="13" value="113"/><column index="14" value="148"/><column index="15" value="127"/><column index="16" value="201"/><column index="17" value="181"/><column index="18" value="177"/><column index="19" value="157"/><column index="20" value="52"/><column index="21" value="131"/><column index="22" value="208"/><column index="23" value="134"/><column index="24" value="300"/><column index="25" value="182"/><column index="26" value="143"/><column index="27" value="182"/><column index="28" value="259"/><column index="29" value="185"/><column index="30" value="300"/><column index="31" value="233"/><column index="32" value="194"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table></browse_table_settings></tab_browse><tab_sql><sql name="Recent_VHA_By_Age.sql">SELECT *
+FROM NumofSuicByState
+
+DELETE FROM AgeByState
+WHERE Year&lt;2015
+
+SELECT * FROM AgeByState
+
+DELETE FROM HispanicAffiliationRates
+WHERE Year&lt;2015
+
+SELECT * FROM HispanicAffiliationRates
+
+DELETE FROM NumofSuicByState
+WHERE Year&lt;2015
+
+SELECT * FROM NumofSuicByState
+
+DELETE FROM RaceByState
+WHERE Year&lt;2015
+
+SELECT * FROM RaceByState
+
+DELETE FROM RatesBySex
+WHERE Year&lt;2015
+
+SELECT * FROM RatesBySex
+
+DELETE FROM RatesByRace
+WHERE Year&lt;2015
+
+SELECT * FROM RatesByRace
+
+DELETE FROM RatesBySexandAge
+WHERE Year&lt;2015
+
+SELECT * FROM RatesBySexandAge
+
+DELETE FROM RecentVHAbyAge
+WHERE Year&lt;2015
+
+SELECT * FROM RecentVHAbyAge
+
+DELETE FROM SexByYearAndState
+WHERE Year&lt;2015
+
+SELECT * FROM SexByYearAndState
+
+DELETE FROM NonRecentVHAbyYear
+WHERE Year&lt;2015
+
+SELECT * FROM NonRecentVHAbyYear
+
+DELETE FROM NonRecentVHAbyAge
+WHERE Year&lt;2015
+
+SELECT * FROM NonRecentVHAbyAge
+
+SELECT rr.*, rs.*
+FROM RatesByRace rr
+LEFT JOIN RatesBySex rs
+on rr.Year=rs.Year
+
+SELECT rtrim(&quot;SuicideRate/100,000&quot;, '*') as trimmed
+FROM AgeByState
+
+UPDATE AgeByState
+SET &quot;SuicideRate/100,000&quot;=rtrim(&quot;SuicideRate/100,000&quot;, '*')
+
+SELECT &quot;SuicideRate/100,000&quot;
+FROM AgeByState
+
+CREATE TABLE RecentVHAbyYear as
+	SELECT *
+	FROM RecentVHAbyAge
+	WHERE AgeGroup='All'
+
+CREATE TABLE RecentAndNonRecentVHAbyYear as
+	SELECT nry.*, ry.*
+	FROM NonRecentVHAbyYear nry
+	LEFT JOIN RecentVHAbyYear ry
+	on nry.Year=ry.Year
+
+ALTER TABLE RecentAndNonRecentVHAbyYear
+DROP COLUMN NonRecentVHAMaleSuicides
+
+ALTER TABLE RecentAndNonRecentVHAbyYear
+DROP COLUMN MaleNonRecentVHApopEst
+
+ALTER TABLE RecentAndNonRecentVHAbyYear
+DROP COLUMN &quot;MaleNonRecentVHAuserCrudeRate/100,000&quot;
+
+ALTER TABLE RecentAndNonRecentVHAbyYear
+DROP COLUMN FemaleNonRecentVHAuserSuicides
+
+ALTER TABLE RecentAndNonRecentVHAbyYear
+DROP COLUMN FemaleNonRecentVHAuserPopEst
+
+ALTER TABLE RecentAndNonRecentVHAbyYear
+DROP COLUMN &quot;FemaleNonRecentVHAuserCrudeRate/100,000&quot;
+
+ALTER TABLE RecentAndNonRecentVHAbyYear
+DROP COLUMN &quot;Year:1&quot;
+
+ALTER TABLE RecentAndNonRecentVHAbyYear
+DROP COLUMN AgeGroup
+
+ALTER TABLE HispanicAffiliationRates
+DROP COLUMN &quot;AgeAdjustedRate/100,000&quot;
+
+ALTER TABLE HispanicAffiliationRates
+DROP COLUMN &quot;AgeAndSexAdjustedRate/100,000&quot;
+
+ALTER TABLE HispanicAffiliationRates
+DROP COLUMN &quot;MaleAgeAdjustedRate/100,000&quot;
+
+ALTER TABLE HispanicAffiliationRates
+DROP COLUMN &quot;FemaleAgeAdjustedRate/100,000&quot;
+
+ALTER TABLE RecentVHAbyYear
+DROP COLUMN AgeGroup
+
+CREATE TABLE RecentAndNonRecentVHAbyAGE as
+	SELECT nra.*, ra.*
+	FROM NonRecentVHAbyAge nra
+	LEFT JOIN RecentVHAbyAge ra
+	on nra.Year=ra.Year AND nra.AgeGroup=ra.AgeGroup
+
+ALTER TABLE RecentAndNonRecentVHAbyAGE
+DROP COLUMN 'Year:1'
+
+ALTER TABLE RecentAndNonRecentVHAbyAGE
+DROP COLUMN 'AgeGroup:1'
+
+CREATE TABLE AgeOverview as
+	SELECT ab.*, rba.*
+	FROM RatesBySexandAge ab
+	LEFT JOIN RecentAndNonRecentVHAbyAGE rba
+	on ab.Year=rba.Year AND ab.AgeGroup=rba.AgeGroup
+	
+ALTER TABLE AgeOverview
+DROP COLUMN AgeGroup2
+
+ALTER TABLE AgeOverview
+DROP COLUMN 'Year:1'
+
+ALTER TABLE AgeOverview
+DROP COLUMN 'AgeGroup:1'
+
+SELECT *
+FROM AgeOverview
+WHERE FemaleNumofSuicide = '.'
+
+UPDATE AgeOverview
+SET FemaleNumofSuicide = 0
+WHERE FemaleNumofSuicide ='.'
+
+UPDATE AgeOverview
+SET FemalePopEst = 0
+WHERE FemalePopEst ='.'
+
+UPDATE AgeOverview
+SET &quot;FemaleCrudeRate/100,000&quot; = 0
+WHERE &quot;FemaleCrudeRate/100,000&quot; ='.'</sql><sql name="Recent_VHA_By_Age.sql">SELECT *
 FROM NumofSuicByState
 
 DELETE FROM AgeByState
@@ -132,7 +295,7 @@ DROP COLUMN 'Year:1'
 ALTER TABLE RecentAndNonRecentVHAbyAGE
 DROP COLUMN 'AgeGroup:1'
 
-CREATE TABLE AgeOverview as
+CREATE TABLE AgeOverviewsdfg as
 	SELECT ab.*, rba.*
 	FROM RatesBySexandAge ab
 	LEFT JOIN RecentAndNonRecentVHAbyAGE rba
@@ -161,4 +324,316 @@ WHERE FemalePopEst ='.'
 
 UPDATE AgeOverview
 SET &quot;FemaleCrudeRate/100,000&quot; = 0
-WHERE &quot;FemaleCrudeRate/100,000&quot; ='.'</sql><current_tab id="0"/></tab_sql></sqlb_project>
+WHERE &quot;FemaleCrudeRate/100,000&quot; ='.'
+
+CREATE TABLE StatebyYear as
+	SELECT *
+	FROM SexByYearAndState
+	WHERE Sex = 'All'
+
+ALTER TABLE StatebyYear
+DROP COLUMN Sex	
+
+ALTER TABLE AgeByState
+ADD COLUMN Addd as (Suicides+&quot;SuicideRate/100,000&quot;)
+
+ALTER TABLE AgeByState
+DROP COLUMN Addd
+
+CREATE TABLE SuicideByYear as
+	SELECT *
+	FROM StatebyYear
+	WHERE GeoRegion='All'
+	
+ALTER TABLE SuicideByYear
+DROP COLUMN GeoRegion
+
+ALTER TABLE SuicideByYear
+DROP COLUMN State
+
+ALTER TABLE RecentAndNonRecentVHAbyYear
+ADD COLUMN NumofSuicide
+
+UPDATE RecentAndNonRecentVHAbyYear
+	SET NumofSuicide =(
+		SELECT NumofSuicide
+		FROM SuicideByYear
+		WHERE RecentAndNonRecentVHAbyYear.Year = SuicideByYear.Year)
+
+ALTER TABLE RecentAndNonRecentVHAbyYear
+DROP COLUMN RecentVHApercentage
+
+ALTER TABLE RecentAndNonRecentVHAbyYear
+ADD COLUMN RecentVHApercentage 
+
+
+UPDATE RecentAndNonRecentVHAbyYear
+SET NonRecentVHAsuicides=replace(NonRecentVHAsuicides, ',','')
+
+SELECT NonRecentVHAsuicides
+FROM RecentAndNonRecentVHAbyYear
+
+UPDATE RecentAndNonRecentVHAbyYear
+SET NonRecentVHApop=replace(NonRecentVHApop, ',','')
+
+
+UPDATE RecentAndNonRecentVHAbyYear
+SET NumOfRecentVHAuserSuicide=replace(NumOfRecentVHAuserSuicide, ',','')
+
+UPDATE RecentAndNonRecentVHAbyYear
+SET VHAvetPopEst=replace(VHAvetPopEst, ',','')
+
+UPDATE RecentAndNonRecentVHAbyYear
+	SET RecentVHApercentage =(
+		SELECT round((100*(NumOfRecentVHAuserSuicide/NumofSuicide)),2)
+		FROM RecentAndNonRecentVHAbyYear)
+
+SELECT RecentVHApercentage
+FROM RecentAndNonRecentVHAbyYear
+
+ALTER TABLE RecentAndNonRecentVHAbyYear
+ADD COLUMN NonRecentVHApercentage 
+
+UPDATE RecentAndNonRecentVHAbyYear
+	SET NonRecentVHApercentage=(
+		SELECT round((100*(NonRecentVHAsuicides/NumofSuicide)),2)
+		FROM RecentAndNonRecentVHAbyYear)
+		
+SELECT NonRecentVHApercentage
+FROM RecentAndNonRecentVHAbyYear
+
+-- SexByYearAndState RecentAndNonRecentVHAbyYear RatesBySexAndRace
+CREATE TABLE YearOverview as
+	SELECT ss.*, rby.*, rsr.*
+	FROM SuicideByYear ss
+	NATURAL LEFT JOIN RecentAndNonRecentVHAbyYear rby
+	NATURAL LEFT JOIN RatesBySexAndRace rsr
+
+UPDATE YearOverview
+SET WhiteNumofSuicide=replace(WhiteNumofSuicide, ',','')
+
+UPDATE YearOverview
+SET SuicideDeaths=replace(SuicideDeaths, ',','')
+
+UPDATE YearOverview
+SET MalePopEst=replace(MalePopEst, ',','')
+
+UPDATE YearOverview
+SET FemalePopEst=replace(FemalePopEst, ',','')
+
+ALTER TABLE YearOverview
+DROP COLUMN &quot;Year:1&quot;
+
+ALTER TABLE YearOverview
+DROP COLUMN &quot;Year:2&quot;
+
+ALTER TABLE YearOverview
+DROP COLUMN &quot;NumofSuicide:1&quot;
+
+ALTER TABLE YearOverview
+DROP COLUMN &quot;Percent&quot;
+
+ALTER TABLE YearOverview
+DROP COLUMN &quot;AgeAdjustedRate/100,000&quot;
+
+ALTER TABLE YearOverview
+DROP COLUMN &quot;AgeAndSexAdjustedRate/100,000&quot;
+
+ALTER TABLE YearOverview
+DROP COLUMN &quot;MaleAgeAdjustedRate/100,000&quot;
+
+ALTER TABLE YearOverview
+DROP COLUMN &quot;FemaleAgeAdjustedRate/100,000&quot;
+
+UPDATE AgeOverview
+SET NumofSuicide=replace(NumofSuicide, ',','')
+
+UPDATE AgeOverview
+SET VeteranPopEst=replace(VeteranPopEst, ',','')
+
+UPDATE AgeOverview
+SET MaleSuicide=replace(MaleSuicide, ',','')
+
+UPDATE AgeOverview
+SET MalePopEst=replace(MalePopEst, ',','')
+
+UPDATE AgeOverview
+SET FemaleNumofSuicide=replace(FemaleNumofSuicide, ',','')
+
+UPDATE AgeOverview
+SET FemalePopEst=replace(FemalePopEst, ',','')
+
+UPDATE AgeOverview
+SET NonRecentVHAsuicides=replace(NonRecentVHAsuicides, ',','')
+
+UPDATE AgeOverview
+SET NonRecentVHAuserPopEst=replace(NonRecentVHAuserPopEst, ',','')
+
+UPDATE AgeOverview
+SET NumOfRecentVHAuserSuicide=replace(NumOfRecentVHAuserSuicide, ',','')
+
+UPDATE AgeOverview
+SET VHAvetPopEst=replace(VHAvetPopEst, ',','')
+
+ALTER TABLE AgeOverview
+ADD COLUMN MaleSuicidePercent
+
+UPDATE AgeOverview
+	SET MaleSuicidePercent=(
+		SELECT round((100*(MaleSuicide/NumofSuicide)),2)
+		FROM AgeOverview)
+		
+ALTER TABLE AgeOverview
+ADD COLUMN MalePopPercent
+
+UPDATE AgeOverview
+	SET MalePopPercent=(
+		SELECT round((100*(MalePopEst/VeteranPopEst)),2)
+		FROM AgeOverview)
+
+ALTER TABLE AgeOverview
+ADD COLUMN FemaleSuicidePercent
+
+UPDATE AgeOverview
+	SET FemaleSuicidePercent=(
+		SELECT round((100*(FemaleNumofSuicide/NumofSuicide)),2)
+		FROM AgeOverview
+		GROUP by Year, AgeGroup)
+		
+ALTER TABLE AgeOverview
+ADD COLUMN FemalePopPercent
+
+UPDATE AgeOverview
+	SET FemalePopPercent=(
+		SELECT round((100*(FemalePopEst/VeteranPopEst)),2)
+		FROM AgeOverview)
+		
+ALTER TABLE AgeOverview
+ADD COLUMN NonRecentVHAMaleSuicidesPercent
+
+UPDATE AgeOverview
+	SET NonRecentVHAMaleSuicidesPercent=(
+		SELECT round((100*(NonRecentVHAsuicides/NumofSuicide)),2)
+		FROM AgeOverview)
+		
+ALTER TABLE AgeOverview add FemaleNumbofSuicide as (NumofSuicide-MaleSuicide)
+
+ALTER TABLE AgeOverview DROP COLUMN FemaleNumofSuicide
+
+ALTER TABLE AgeOverview DROP COLUMN MaleSuicidePercent
+
+ALTER TABLE AgeOverview DROP COLUMN MalePopPercent
+
+ALTER TABLE AgeOverview DROP COLUMN FemaleSuicidePercent
+
+ALTER TABLE AgeOverview DROP COLUMN FemalePopPercent
+
+ALTER TABLE AgeOverview DROP COLUMN NonRecentVHAMaleSuicidesPercent
+
+ALTER TABLE AgeOverview DROP COLUMN FemalePopEst
+
+ALTER TABLE AgeOverview add FemalePopest as (VeteranPopEst-MalePopEst)
+
+ALTER TABLE AgeOverview ADD MaleSuicidePercent as (round((MaleSuicide/NumofSuicide),4)*100)
+
+ALTER TABLE AgeOverview ADD MalePopPercent as (round((MalePopEst/VeteranPopEst),4)*100)
+
+ALTER TABLE AgeOverview ADD FemaleSuicidePercent as (round((FemaleNumbofSuicide/NumofSuicide),4)*100)
+
+ALTER TABLE AgeOverview ADD FemalePopPercent as (round((FemalePopest/VeteranPopEst),4)*100)
+
+ALTER TABLE AgeOverview ADD NonRecentVHAsuicidePercent as (round((NonRecentVHAsuicides/NumofSuicide),4)*100)
+
+ALTER TABLE AgeOverview ADD NonRecentVHApopPercent as (round((NonRecentVHAuserPopEst/VeteranPopEst),4)*100)
+
+ALTER TABLE AgeOverview ADD RecentVHAsuicidePercent as (round((NumOfRecentVHAuserSuicide/VeteranPopEst),4)*100)
+
+ALTER TABLE AgeOverview ADD RecentVHApopPercent as (round((VHAvetPopEst/VeteranPopEst),4)*100)
+
+CREATE TABLE AllOverview as
+	SELECT *
+	FROM AgeOverview
+	WHERE AgeGroup='All'
+	
+ALTER TABLE AllOverview DROP COLUMN AgeGroup
+
+ALTER TABLE YearOverview DROP COLUMN NumofSuicide
+
+ALTER TABLE YearOverview DROP COLUMN NonRecentVHAsuicides
+
+ALTER TABLE YearOverview DROP COLUMN NonRecentVHApop
+
+ALTER TABLE YearOverview DROP COLUMN &quot;NonRecentVHAcrudeRate/100,000&quot;
+
+ALTER TABLE YearOverview DROP COLUMN NumOfRecentVHAuserSuicide
+
+ALTER TABLE YearOverview DROP COLUMN VHAvetPopEst
+
+ALTER TABLE YearOverview DROP COLUMN RecentVHApercentage
+
+ALTER TABLE YearOverview DROP COLUMN SuicideDeaths
+
+ALTER TABLE YearOverview DROP COLUMN VeteranPop
+
+ALTER TABLE YearOverview DROP COLUMN MaleSuicides
+
+ALTER TABLE YearOverview DROP COLUMN MalePopEst
+
+ALTER TABLE YearOverview DROP COLUMN &quot;MaleCrudeRate/100,000&quot;
+
+ALTER TABLE YearOverview DROP COLUMN FemaleSuicides
+
+ALTER TABLE YearOverview DROP COLUMN FemalePopest
+
+ALTER TABLE YearOverview DROP COLUMN &quot;FemaleCrudeRate/100,000&quot;
+
+ALTER TABLE YearOverview DROP COLUMN &quot;RecentVHAuserSuicideCrudeRate/100,000&quot;
+
+ALTER TABLE YearOverview DROP COLUMN NonRecentVHApercentage
+
+ALTER TABLE YearOverview DROP COLUMN &quot;WhiteCrudeRate/100,000&quot;
+
+ALTER TABLE YearOverview DROP COLUMN &quot;AfricanAmericanCrudeRate/100,000&quot;
+
+ALTER TABLE YearOverview DROP COLUMN &quot;NativeCrudeRate/100,000&quot;
+
+ALTER TABLE YearOverview DROP COLUMN &quot;Asian/Hawaiian/PacificIslanderCrudeRate/100,000&quot;
+
+ALTER TABLE YearOverview DROP COLUMN &quot;MultipleRaceCrudeRate&quot;
+
+ALTER TABLE YearOverview DROP COLUMN &quot;CrudeRate/100,000&quot;
+
+ALTER TABLE AllOverview DROP COLUMN &quot;CrudeRate/100,000&quot;
+
+ALTER TABLE AllOverview DROP COLUMN &quot;MaleCrudeRate/100,000&quot;
+
+ALTER TABLE AllOverview DROP COLUMN &quot;FemaleCrudeRate/100,000&quot;
+
+ALTER TABLE AllOverview DROP COLUMN &quot;NonRecentVHAcrudeRate/100,000&quot;
+
+ALTER TABLE AllOverview DROP COLUMN &quot;RecentVHAuserSuicideCrudeRate/100,000&quot;
+
+CREATE TABLE YearMasterSet as
+	SELECT ao.*, yo.*
+	FROM AgeAllOverview ao
+	NATURAL LEFT JOIN YearOverview yo
+
+ALTER TABLE YearMasterSet ADD WhiteNumofSuicidePercent as (round((WhiteNumofSuicide/NumofSuicide),4)*100)
+
+ALTER TABLE YearMasterSet ADD AfricanAmericanNumofSuicidesPercent as (round((AfricanAmericanNumofSuicides/NumofSuicide),4)*100)
+
+ALTER TABLE YearMasterSet ADD NativeNumofSuicidePercent as (round((NativeNumofSuicide/NumofSuicide),4)*100)
+
+ALTER TABLE YearMasterSet ADD &quot;Asian/Hawaiian/PacificIslanderNumofSuicidesPercent&quot; as (round((&quot;Asian/Hawaiian/PacificIslanderNumofSuicides&quot;/NumofSuicide),4)*100)
+
+ALTER TABLE YearMasterSet ADD MultipleRaceNumofSuicidesPercent as (round((MultipleRaceNumofSuicides/NumofSuicide),4)*100)
+
+ALTER TABLE YearMasterSet ADD UnknownRaceSuicidePercent as (round((UnknownRace/NumofSuicide),4)*100)
+
+ALTER TABLE YearMasterSet RENAME COLUMN UnknownRace to UnknownRaceSuicide
+
+ALTER TABLE AgeOverview RENAME to AgeMasterSet
+
+ALTER TABLE YearMasterSet DROP COLUMN RecentVHAsuicidePercent
+
+ALTER TABLE YearMasterSet ADD COLUMN RecentVHAsuicidePercent as (round((NumOfRecentVHAuserSuicide/NumofSuicide),4)*100)</sql><current_tab id="1"/></tab_sql></sqlb_project>
