@@ -473,8 +473,11 @@ ALTER TABLE AgeOverview RENAME to AgeMasterSet
 
 ALTER TABLE YearMasterSet DROP COLUMN RecentVHAsuicidePercent
 
-ALTER TABLE YearMasterSet ADD COLUMN RecentVHAsuicidePercent as (round((NumOfRecentVHAuserSuicide/NumofSuicide),4)*100)
-
 ALTER TABLE AgeMasterSet DROP COLUMN RecentVHAsuicidePercent
 
 ALTER TABLE AgeMasterSet ADD COLUMN RecentVHAsuicidePercent as (round((NumOfRecentVHAuserSuicide/NumofSuicide),4)*100)
+
+ALTER TABLE StatebyYear RENAME field5 to SuicidePercentage 
+
+UPDATE StatebyYear 
+SET SuicidePercentage = (round(SuicidePercentage, 4) *100)
